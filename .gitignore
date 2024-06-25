@@ -1,2 +1,6 @@
-/node_modules
-package-lock.json
+node_modules/
+.env
+*.log
+token.json
+outlook_token.json
+credentials.json
